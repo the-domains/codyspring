@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cody Spring]]></title>
-        <description><![CDATA[Cody Spring]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Simplify Everything]]></title>
+        <description><![CDATA[Simplify Everything]]></description>
+        <link>https://thegrid.ai/codyspring/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 20:06:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 20:19:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/codyspring/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Test Post]]></title>
-            <description><![CDATA[<h1>Test Post</h1>]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <title><![CDATA[Hello, Grid.]]></title>
+            <description><![CDATA[<article><h1>Hello, Grid.</h1><p>Man! It's been a long wait to get into this thing. Though, the support over at http://thegrid.io are amazing and hooked me up. I've been itching to get my website started for weeks now and was even considering bouncing over to Squarespace for an easy fix. No longer! I'll look forward to adding more very, very soon. </p></article>]]></description>
+            <link>https://thegrid.ai/codyspring/test-post/index.html</link>
             <guid isPermaLink="false">b62c0cb3-ea2b-4028-b95a-44a665d5c068</guid>
-            <pubDate>Tue, 01 Mar 2016 20:06:14 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 20:18:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
