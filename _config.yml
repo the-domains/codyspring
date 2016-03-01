@@ -1,0 +1,28 @@
+name: Cody Spring
+favicon: null
+layout_spectrum: 0.8743360510561615
+typography_spectrum: 0.8188433656468987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7681732196360826
+  lightness: 0.05752438819035888
+  saturation: 0.10130000347271562
+  rhythmicContrast: 0.848782820161432
+purpose: []
